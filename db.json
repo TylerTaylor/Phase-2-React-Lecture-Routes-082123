@@ -1,0 +1,61 @@
+{
+    "characters" :
+    [
+        {
+            "name" : "Winnie the Pooh",
+            "species" : "bear",
+            "color" : "yellow",
+            "isHappy" : true,
+            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/6/6e/Winnie_The_Pooh.png/revision/latest?cb=20210310185331"
+        },
+        {
+            "name" : "Tigger",
+            "species" : "tiger",
+            "color" : "orange",
+            "isHappy" : true,
+            "image" : "https://static.wikia.nocookie.net/p__/images/a/a9/PI_Tigger.png/revision/latest?cb=20220820122131&path-prefix=protagonist"
+        },
+        {
+            "name" : "Piglet",
+            "species" : "pig",
+            "color" : "pink",
+            "isHappy" : false,
+            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/5/52/Piglet.png/revision/latest?cb=20210310185308"
+        },
+        {
+            "name" : "Eeyore",
+            "species" : "donkey",
+            "color" : "grey",
+            "isHappy" : false,
+            "image" : "https://static.wikia.nocookie.net/p__/images/5/5b/Eeyore_Disney.png/revision/latest?cb=20210124160450&path-prefix=protagonist"
+        },
+        {
+            "name" : "Rabbit",
+            "species" : "rabbit",
+            "color" : "yellow",
+            "isHappy" : false,
+            "image" : "https://assets.stickpng.com/thumbs/5b3691004f74255974b41c30.png"
+        },
+        {
+            "name" : "Kanga",
+            "species" : "kangaroo",
+            "color" : "brown",
+            "isHappy" : true,
+            "image" : "https://static.wikia.nocookie.net/winniethepooh/images/2/2d/KangaSmile.png/revision/latest?cb=20220711000457"
+        },
+        {
+            "name" : "Roo",
+            "species" : "kangaroo",
+            "color" : "brown",
+            "isHappy" : true,
+            "image" : "https://static.wikia.nocookie.net/disney/images/2/22/Roo_-_KH3.png/revision/latest?cb=20181116080618"
+        },
+        {
+            "name" : "Owl",
+            "species" : "owl",
+            "color" : "brown",
+            "isHappy" : true,
+            "image" : "https://www.disneyclips.com/images2/images/owl3.png"
+        }
+    ]
+}
