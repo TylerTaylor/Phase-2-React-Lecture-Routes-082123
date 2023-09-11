@@ -6,7 +6,7 @@
             "species" : "bear",
             "color" : "yellow",
             "isHappy" : true,
-            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/6/6e/Winnie_The_Pooh.png/revision/latest?cb=20210310185331"
+            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/6/6e/Winnie_The_Pooh.png/"
         },
         {
             "name" : "Tigger",
@@ -20,7 +20,7 @@
             "species" : "pig",
             "color" : "pink",
             "isHappy" : false,
-            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/5/52/Piglet.png/revision/latest?cb=20210310185308"
+            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/5/52/Piglet.png/"
         },
         {
             "name" : "Eeyore",
@@ -34,7 +34,7 @@
             "species" : "rabbit",
             "color" : "yellow",
             "isHappy" : false,
-            "image" : "https://assets.stickpng.com/thumbs/5b3691004f74255974b41c30.png"
+            "image" : "https://static.wikia.nocookie.net/winniethepooh/images/f/f4/RabbitSmile.png/"
         },
         {
             "name" : "Kanga",

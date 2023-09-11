@@ -3,7 +3,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 // import necessary components from files
-import App from "./App";
+import App from "./components/Lecture-One/App";
+
+import "./stylesheets/stylesheet.css"
 
 // component
 function Index() {
