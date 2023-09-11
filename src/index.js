@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom";
 
 import App from "./App";
 
@@ -10,5 +10,4 @@ function Index() {
     )
 }
 
-const root = ReactDOM.createRoot(document.querySelector('#root'))
-root.render(<Index />)
+ReactDOM.render(<Index />, document.querySelector('#root'))
