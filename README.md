@@ -20,3 +20,19 @@
 ### - How does prop destructuring work?
 ### - What are the various ways of passing props?
 ### - What might be "prop drilling" and why do we want to avoid it?
+\------
+\
+\
+\------
+\
+\
+\------
+## State and Events Lecture:
+## 1. `fetch` data to the console and store it in state
+## 2. Create toggle events using state
+### - Why do we use state?
+### - What are default values in state?
+## 3. Conditionally render to the screen
+### - What are the different ways of conditional rendering?
+### - What does the "conditional" portion of conditional rendering mean?
+### - Why do we use conditional rendering?
