@@ -4,11 +4,12 @@ import React, { useState, useEffect } from "react";
 
 function App() {
 
+    // fetch characters from server
     useEffect(() => {
         fetch("http://localhost:8004/characters")
             .then((resp) => resp.json())
             .then((data) => console.log(data))
-    }, [])
+    }, []) // fetch only once per page load
 
     return (
         <>
