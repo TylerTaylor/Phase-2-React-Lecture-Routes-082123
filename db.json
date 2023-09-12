@@ -6,56 +6,56 @@
             "species" : "bear",
             "color" : "yellow",
             "isHappy" : true,
-            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/6/6e/Winnie_The_Pooh.png/"
+            "image" : "https://logowik.com/content/uploads/images/winnie-the-pooh-with-honey5619.logowik.com.webp"
         },
         {
             "name" : "Tigger",
             "species" : "tiger",
             "color" : "orange",
             "isHappy" : true,
-            "image" : "https://static.wikia.nocookie.net/p__/images/a/a9/PI_Tigger.png/revision/latest?cb=20220820122131&path-prefix=protagonist"
+            "image" : "https://i.pinimg.com/736x/6b/c0/9a/6bc09adcf247984e93fce2dff5460ad0--tigger-tattoo-bear-tattoos.jpg"
         },
         {
             "name" : "Piglet",
             "species" : "pig",
             "color" : "pink",
             "isHappy" : false,
-            "image" : "https://static.wikia.nocookie.net/pure-good-wiki/images/5/52/Piglet.png/"
+            "image" : "https://iheartcraftythings.com/wp-content/uploads/2021/10/6-55.jpg"
         },
         {
             "name" : "Eeyore",
             "species" : "donkey",
             "color" : "grey",
             "isHappy" : false,
-            "image" : "https://static.wikia.nocookie.net/p__/images/5/5b/Eeyore_Disney.png/revision/latest?cb=20210124160450&path-prefix=protagonist"
+            "image" : "https://modernpaintbynumbers.com/wp-content/uploads/2020/10/eeyore-winnie-the-pooh-paint-by-numbers.jpg"
         },
         {
             "name" : "Rabbit",
             "species" : "rabbit",
             "color" : "yellow",
             "isHappy" : false,
-            "image" : "https://static.wikia.nocookie.net/winniethepooh/images/f/f4/RabbitSmile.png/"
+            "image" : "https://www.fredscorner.nl/wp-content/uploads/2017/08/Rabbit.jpg"
         },
         {
             "name" : "Kanga",
             "species" : "kangaroo",
             "color" : "brown",
             "isHappy" : true,
-            "image" : "https://static.wikia.nocookie.net/winniethepooh/images/2/2d/KangaSmile.png/revision/latest?cb=20220711000457"
+            "image" : "https://petticoatparlor.com/prodimages/Kanga.jpg"
         },
         {
             "name" : "Roo",
             "species" : "kangaroo",
             "color" : "brown",
             "isHappy" : true,
-            "image" : "https://static.wikia.nocookie.net/disney/images/2/22/Roo_-_KH3.png/revision/latest?cb=20181116080618"
+            "image" : "https://i.etsystatic.com/16636829/r/il/e15128/1593336947/il_fullxfull.1593336947_fowy.jpg"
         },
         {
             "name" : "Owl",
             "species" : "owl",
             "color" : "brown",
             "isHappy" : true,
-            "image" : "https://www.disneyclips.com/images2/images/owl3.png"
+            "image" : "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F1%2F3%2F7%2F17137107%5D&call=url%5Bfile%3Aproduct.chain%5D"
         }
     ]
 }

@@ -3,9 +3,10 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 // import necessary components from files
-import App from "./components/Lecture-One/App";
+// import App from "./components/Lecture-One/App";
+import App from "./components/App"
 
-import "./stylesheets/stylesheet.css"
+import "./stylesheets/lecture-2.css"
 
 // component
 function Index() {
