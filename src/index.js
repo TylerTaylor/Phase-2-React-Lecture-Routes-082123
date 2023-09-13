@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 // import App from "./components/Lecture-One/App";
 import App from "./components/App"
 
-import "./stylesheets/lecture-2.css"
+import "./stylesheets/lecture-3.css"
 
 // component
 function Index() {

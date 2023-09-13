@@ -36,3 +36,16 @@
 ### - What are the different ways of conditional rendering?
 ### - What does the "conditional" portion of conditional rendering mean?
 ### - Why do we use conditional rendering?
+\------
+\
+\
+\------
+\
+\
+\------
+## Information Flow Lecture:
+## 1. `fetch` data to the console and store it in state
+### - Why do we use a `useEffect` hook here?
+## 2. Render elements from `fetch` to screen
+### - How might we tackle different kinds of data?
+### - What is the purpose of using a `map` over a `forEach`?
