@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 
 // import necessary components from files
 import Search from "./Search";
+import Characters from "./Characters";
 
 function App() {
 
@@ -14,7 +15,6 @@ function App() {
             .then((data) => setCharArr(data))
     }, [])
 
-
     return (
         <>
             <>
@@ -22,6 +22,9 @@ function App() {
             </>
             <>
                 <Search />
+                <br />
+                <br />
+                <Characters charArr = {charArr} />
             </>
         </>
     )

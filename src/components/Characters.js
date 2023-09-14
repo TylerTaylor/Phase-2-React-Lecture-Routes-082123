@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Characters() {
+function Characters( { charArr } ) {
 
     return (
         <></>
