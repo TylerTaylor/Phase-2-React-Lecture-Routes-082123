@@ -63,6 +63,14 @@
       "color": "brown",
       "isHappy": true,
       "image": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F1%2F3%2F7%2F17137107%5D&call=url%5Bfile%3Aproduct.chain%5D"
+    },
+    {
+      "name": "Christopher Robin",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Christopherrobin.jpg",
+      "color": "white",
+      "species": "human",
+      "isHappy": true,
+      "id": 9
     }
   ]
 }

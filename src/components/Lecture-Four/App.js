@@ -7,6 +7,7 @@ import Characters from "./Characters";
 function App() {
 
     const [charArr, setCharArr] = useState([])
+    const [searchTerm, setSearchTerm] = useState("")
 
     // necessary to prevent infinite state refresh loop
     useEffect(() => {
@@ -21,10 +22,10 @@ function App() {
                 <h2>character display</h2>
             </>
             <>
-                <Search />
+                <Search setSearchTerm = {setSearchTerm} />
                 <br />
                 <br />
-                <Characters charArr = {charArr} />
+                { charArr.length > 0 ? <Characters charArr = {charArr} setCharArr = {setCharArr} searchTerm = {searchTerm} /> : undefined }
             </>
         </>
     )
