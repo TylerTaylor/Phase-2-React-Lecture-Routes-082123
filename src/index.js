@@ -4,9 +4,9 @@ import ReactDOM from "react-dom";
 
 // import necessary components from files
 // import App from "./components/Lecture-One/App";
-import App from "./components/Lecture-Three/App"
+import App from "./components/App"
 
-import "./stylesheets/lecture-3.css"
+import "./stylesheets/lecture-4.css"
 
 // component
 function Index() {
