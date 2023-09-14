@@ -49,3 +49,19 @@
 ## 2. Render elements from `fetch` to screen
 ### - How might we tackle different kinds of data?
 ### - What is the purpose of using a `map` over a `forEach`?
+\------
+\
+\
+\------
+\
+\
+\------
+## Forms Lecture:
+## 1. Render elements from `fetch` to screen
+## 2. Filter based on inputted terms
+### - Why do we use state here?
+### - What are the benefits of multiple components here?
+### - How does the flow of data look?
+## 3. Add a new object and POST it to the db.json
+### - What is the advantage of making a POST request?
+### - Why do we need both the getter and setter here?

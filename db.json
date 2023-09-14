@@ -1,69 +1,68 @@
 {
-    "characters" :
-    [
-        {
-            "id" : 1,
-            "name" : "Winnie the Pooh",
-            "species" : "bear",
-            "color" : "yellow",
-            "isHappy" : true,
-            "image" : "https://logowik.com/content/uploads/images/winnie-the-pooh-with-honey5619.logowik.com.webp"
-        },
-        {
-            "id" : 2,
-            "name" : "Tigger",
-            "species" : "tiger",
-            "color" : "orange",
-            "isHappy" : true,
-            "image" : "https://i.pinimg.com/736x/6b/c0/9a/6bc09adcf247984e93fce2dff5460ad0--tigger-tattoo-bear-tattoos.jpg"
-        },
-        {
-            "id" : 3,
-            "name" : "Piglet",
-            "species" : "pig",
-            "color" : "pink",
-            "isHappy" : false,
-            "image" : "https://iheartcraftythings.com/wp-content/uploads/2021/10/6-55.jpg"
-        },
-        {
-            "id" : 4,
-            "name" : "Eeyore",
-            "species" : "donkey",
-            "color" : "grey",
-            "isHappy" : false,
-            "image" : "https://modernpaintbynumbers.com/wp-content/uploads/2020/10/eeyore-winnie-the-pooh-paint-by-numbers.jpg"
-        },
-        {
-            "id" : 5,
-            "name" : "Rabbit",
-            "species" : "rabbit",
-            "color" : "yellow",
-            "isHappy" : false,
-            "image" : "https://www.fredscorner.nl/wp-content/uploads/2017/08/Rabbit.jpg"
-        },
-        {
-            "id" : 6,
-            "name" : "Kanga",
-            "species" : "kangaroo",
-            "color" : "brown",
-            "isHappy" : true,
-            "image" : "https://petticoatparlor.com/prodimages/Kanga.jpg"
-        },
-        {
-            "id" : 7,
-            "name" : "Roo",
-            "species" : "kangaroo",
-            "color" : "brown",
-            "isHappy" : true,
-            "image" : "https://i.etsystatic.com/16636829/r/il/e15128/1593336947/il_fullxfull.1593336947_fowy.jpg"
-        },
-        {
-            "id" : 8,
-            "name" : "Owl",
-            "species" : "owl",
-            "color" : "brown",
-            "isHappy" : true,
-            "image" : "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F1%2F3%2F7%2F17137107%5D&call=url%5Bfile%3Aproduct.chain%5D"
-        }
-    ]
+  "characters": [
+    {
+      "id": 1,
+      "name": "Winnie the Pooh",
+      "species": "bear",
+      "color": "yellow",
+      "isHappy": true,
+      "image": "https://logowik.com/content/uploads/images/winnie-the-pooh-with-honey5619.logowik.com.webp"
+    },
+    {
+      "id": 2,
+      "name": "Tigger",
+      "species": "tiger",
+      "color": "orange",
+      "isHappy": true,
+      "image": "https://i.pinimg.com/736x/6b/c0/9a/6bc09adcf247984e93fce2dff5460ad0--tigger-tattoo-bear-tattoos.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Piglet",
+      "species": "pig",
+      "color": "pink",
+      "isHappy": false,
+      "image": "https://iheartcraftythings.com/wp-content/uploads/2021/10/6-55.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Eeyore",
+      "species": "donkey",
+      "color": "grey",
+      "isHappy": false,
+      "image": "https://modernpaintbynumbers.com/wp-content/uploads/2020/10/eeyore-winnie-the-pooh-paint-by-numbers.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rabbit",
+      "species": "rabbit",
+      "color": "yellow",
+      "isHappy": false,
+      "image": "https://www.fredscorner.nl/wp-content/uploads/2017/08/Rabbit.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kanga",
+      "species": "kangaroo",
+      "color": "brown",
+      "isHappy": true,
+      "image": "https://petticoatparlor.com/prodimages/Kanga.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Roo",
+      "species": "kangaroo",
+      "color": "brown",
+      "isHappy": true,
+      "image": "https://i.etsystatic.com/16636829/r/il/e15128/1593336947/il_fullxfull.1593336947_fowy.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Owl",
+      "species": "owl",
+      "color": "brown",
+      "isHappy": true,
+      "image": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F1%2F3%2F7%2F17137107%5D&call=url%5Bfile%3Aproduct.chain%5D"
+    }
+  ]
 }

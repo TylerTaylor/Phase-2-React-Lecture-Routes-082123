@@ -1,14 +1,11 @@
 import React from "react";
 
-// import necessary components from files
-
 function Search() {
-
 
     return (
         <div>
             <form>
-                <input />
+                <input placeholder = "search term" />
             </form>
         </div>
     )
