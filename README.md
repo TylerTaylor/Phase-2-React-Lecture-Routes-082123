@@ -65,3 +65,14 @@
 ## 3. Add a new object and POST it to the db.json
 ### - What is the advantage of making a POST request?
 ### - Why do we need both the getter and setter here?
+\------
+\
+\
+\------
+\
+\
+\------
+## Side Effects and Data Fetching Lecture:
+## 1. Render all characters to the screen with the class "happy" if they are happy and "sad" if they are sad
+## 2. Click on each character to change their display name from all lowercase to all uppercase (how would you make this a toggle)
+## 3. Allow the user to search quotes/name at the same time

@@ -6,6 +6,7 @@
       "species": "bear",
       "color": "yellow",
       "isHappy": true,
+      "quote" : "People say nothing is impossible, but I do nothing every day.",
       "image": "https://logowik.com/content/uploads/images/winnie-the-pooh-with-honey5619.logowik.com.webp"
     },
     {
@@ -14,6 +15,7 @@
       "species": "tiger",
       "color": "orange",
       "isHappy": true,
+      "quote" : "My spelling is Wobbly. It's good spelling but it Wobbles, and the letters get in the wrong places.",
       "image": "https://i.pinimg.com/736x/6b/c0/9a/6bc09adcf247984e93fce2dff5460ad0--tigger-tattoo-bear-tattoos.jpg"
     },
     {
@@ -22,6 +24,7 @@
       "species": "pig",
       "color": "pink",
       "isHappy": false,
+      "quote" : "You never can tell with bees.",
       "image": "https://iheartcraftythings.com/wp-content/uploads/2021/10/6-55.jpg"
     },
     {
@@ -30,6 +33,7 @@
       "species": "donkey",
       "color": "grey",
       "isHappy": false,
+      "quote" : "Some people care too much. I think it's called love.",
       "image": "https://modernpaintbynumbers.com/wp-content/uploads/2020/10/eeyore-winnie-the-pooh-paint-by-numbers.jpg"
     },
     {
@@ -38,7 +42,8 @@
       "species": "rabbit",
       "color": "yellow",
       "isHappy": false,
-      "image": "https://www.fredscorner.nl/wp-content/uploads/2017/08/Rabbit.jpg"
+      "quote" : "If the person you are talking to doesn't appear to be listening, be patient. It may simply be that he has a small piece of fluff in his ear.",
+      "image": "https://www.bunnyslippers.com/blog/wp-content/uploads/2013/11/rabbit-winnie-pooh.jpg"
     },
     {
       "id": 6,
@@ -46,6 +51,7 @@
       "species": "kangaroo",
       "color": "brown",
       "isHappy": true,
+      "quote" : "It's so much more friendly with two.",
       "image": "https://petticoatparlor.com/prodimages/Kanga.jpg"
     },
     {
@@ -54,6 +60,7 @@
       "species": "kangaroo",
       "color": "brown",
       "isHappy": true,
+      "quote" : "How sweet to be a Cloud Floating in the Blue!",
       "image": "https://i.etsystatic.com/16636829/r/il/e15128/1593336947/il_fullxfull.1593336947_fowy.jpg"
     },
     {
@@ -62,6 +69,7 @@
       "species": "owl",
       "color": "brown",
       "isHappy": true,
+      "quote" : "He could see the honey, he could smell the honey, but he couldn’t quite reach the honey.",
       "image": "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F1%2F3%2F7%2F17137107%5D&call=url%5Bfile%3Aproduct.chain%5D"
     },
     {
@@ -70,6 +78,7 @@
       "color": "white",
       "species": "human",
       "isHappy": true,
+      "quote" : "It is hard to be brave, when you're only a Very Small Animal.",
       "id": 9
     }
   ]
