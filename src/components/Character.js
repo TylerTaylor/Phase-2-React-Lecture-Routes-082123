@@ -15,9 +15,9 @@ function Character( { character } ) {
         // update parent state to trigger re-render
 
     function displayForm() {
-      if (showForm) {
+      // TODO set up a condition here, we only want to show form if the state is true
         return (
-          <form onSubmit={handleEdit} className="edit-form">
+          <form onSubmit={""} className="edit-form">
             <label htmlFor="name">Name</label>
             <input 
               type="text" 
@@ -69,7 +69,6 @@ function Character( { character } ) {
             <input type="submit" value="Submit" />
           </form>
         )
-      }
     }
 
     return (
