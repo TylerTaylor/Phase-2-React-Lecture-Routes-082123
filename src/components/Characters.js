@@ -14,6 +14,8 @@ function Characters( { charArr, setCharArr, searchTerm } ) {
         <Character
             key = {charObj.id}
             character = {charObj}
+            charArr = {charArr}
+            setCharArr = {setCharArr}
         />
     ))
 
