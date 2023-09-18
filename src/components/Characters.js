@@ -1,10 +1,26 @@
-import React from "react";
+import React, { useState } from "react";
 
-function Characters() {
+import Character from "./Character";
+import NewCharacter from "./NewCharacter";
+
+function Characters( { charArr, setCharArr, searchTerm } ) {
+
+    const filteredCharArr = charArr.filter((charObj) => {
+        return charObj.name.toLowerCase().includes(searchTerm.toLowerCase())
+    })
+
+    // TODO: Character component will need the charArr and setCharArr - pass them here as props
+    const mappedCharArr = filteredCharArr.map((charObj) => (
+        <Character
+            key = {charObj.id}
+            character = {charObj}
+        />
+    ))
 
     return (
         <>
-        {/* display character card here */}
+            {mappedCharArr}
+            <NewCharacter charArr = {charArr} setCharArr = {setCharArr} />
         </>
     )
 
