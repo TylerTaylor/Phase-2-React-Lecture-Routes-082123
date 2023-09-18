@@ -1,9 +1,9 @@
 # *WELCOME TO REACT!*
 
 ## First things first:
-## 1. Run the React app with `npm start`
-## 2. Optionally, start the JSON server in a new terminal with `json-server --watch db.json` (we will use this during the state and events and following lectures)
-## 3. Check that all has been installed and "app component" is logged to the console
+1. Run the React app with `npm start`
+2. Start the JSON server in a new terminal with `json-server --watch db.json` (we will use this during the state and events and following lectures)
+3. Check that all has been installed and "app component" is logged to the console
 
 ## Deliverables
 
