@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 function Character( { character, charArr, setCharArr } ) {
     const [showForm, setShowForm] = useState(false)
@@ -125,7 +126,8 @@ function Character( { character, charArr, setCharArr } ) {
     return (
       <div className = "character">
         {/* TODO 5b - Link to the character show page */}
-        <h2>{character.name}</h2>
+        <Link to={`/characters/${character.id}`}><h2>{character.name}</h2></Link>
+        
         <img src = {character.image} alt = {character.name} />
         { character.isHappy ? <h3>{character.name} is happy!</h3> : <h3>{character.name} is sad.</h3> }
 
