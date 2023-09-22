@@ -9,7 +9,6 @@ function Characters( { charArr, setCharArr, searchTerm } ) {
         return charObj.name.toLowerCase().includes(searchTerm.toLowerCase())
     })
 
-    // TODO: Character component will need the charArr and setCharArr - pass them here as props
     const mappedCharArr = filteredCharArr.map((charObj) => (
         <Character
             key = {charObj.id}
@@ -20,10 +19,11 @@ function Characters( { charArr, setCharArr, searchTerm } ) {
     ))
 
     return (
-        <>
+        <div className="characters">
             {mappedCharArr}
+            {/* TODO move the form to its own route */}
             <NewCharacter charArr = {charArr} setCharArr = {setCharArr} />
-        </>
+        </div>
     )
 
 }

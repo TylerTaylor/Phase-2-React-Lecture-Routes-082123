@@ -8,10 +8,9 @@ import App from "./components/App"
 
 import "./stylesheets/lecture-5.css"
 
-// component
-function Index() {
+// TODO 1 - import BrowserRouter from 'react-router-dom' and wrap our whole app with it
 
-    // returns JSX
+function Index() {
     return (
         <App />
     )

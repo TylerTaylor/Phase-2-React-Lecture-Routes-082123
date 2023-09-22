@@ -41,7 +41,7 @@ function NewCharacter( { charArr, setCharArr } ) {
     }
 
     return (
-        <>
+        <div className="add-character">
             <form onSubmit = {(e) => addNewChar(e)}>
                 <input placeholder = "character's name" name = "name" />
                 <input placeholder = "character's image url" name = "image" />
@@ -50,7 +50,7 @@ function NewCharacter( { charArr, setCharArr } ) {
                 <input placeholder = "is character happy?" name = "happiness" />
                 <input type = "submit" value = "submit" />
             </form>
-        </>
+        </div>
     )
 }
 
